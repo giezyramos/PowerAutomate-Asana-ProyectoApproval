@@ -24,3 +24,6 @@ Si se rechaza: se puede enviar una notificación al solicitante informando la de
 
 ![solicitud de creacion de proyectos en asana con form y power automate](https://github.com/user-attachments/assets/87a38303-949d-4fd6-8989-4632a710ac41)
 
+![Resumen del flujo creacion de proyecto en asana](https://github.com/user-attachments/assets/31c3616d-ffa8-4c08-8024-20ae5554dc9e)
+
+
