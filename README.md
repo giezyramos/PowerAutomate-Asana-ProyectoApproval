@@ -1,2 +1,23 @@
-# PowerAutomate-Asana-ProyectoApproval
-Este flujo automatiza el proceso de **aprobación de solicitudes para crear nuevos proyectos en Asana**, utilizando formularios predefinidos como entrada. Está orientado a mejorar la eficiencia del proceso de gestión de proyectos en entornos colaborativos.
+📄 Descripción del flujo: Aprobación de creación de proyectos en Asana
+Este flujo automatiza la validación y aprobación de solicitudes de creación de nuevos proyectos en Asana, iniciadas a través de un formulario.
+
+🔁 Paso a paso del flujo
+Obtener respuestas del formulario (Get_response_details)
+
+Se activa cuando un usuario envía una solicitud mediante un formulario (como Microsoft Forms).
+
+El flujo recoge automáticamente los detalles del formulario: nombre del solicitante, tipo de proyecto, descripción, etc.
+
+Iniciar y esperar una aprobación (Start_and_wait_for_an_approval_1)
+
+El sistema envía una solicitud de aprobación (por ejemplo, vía correo o Microsoft Teams) al responsable de validar la creación del proyecto.
+
+Este paso pausa la ejecución del flujo hasta que se emita una respuesta (aprobado o rechazado).
+
+Condición (Condition)
+
+Evalúa la respuesta de la aprobación:
+
+Si se aprueba: (no mostrado en el resumen, pero probablemente se continúa con la creación del proyecto en Asana)
+
+Si se rechaza: se puede enviar una notificación al solicitante informando la decisión.
