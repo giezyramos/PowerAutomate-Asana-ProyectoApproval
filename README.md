@@ -21,3 +21,6 @@ Evalúa la respuesta de la aprobación:
 Si se aprueba: (no mostrado en el resumen, pero probablemente se continúa con la creación del proyecto en Asana)
 
 Si se rechaza: se puede enviar una notificación al solicitante informando la decisión.
+
+![solicitud de creacion de proyectos en asana con form y power automate](https://github.com/user-attachments/assets/87a38303-949d-4fd6-8989-4632a710ac41)
+
