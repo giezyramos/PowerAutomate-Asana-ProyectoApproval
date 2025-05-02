@@ -22,10 +22,14 @@ Si se aprueba: (no mostrado en el resumen, pero probablemente se continúa con l
 
 Si se rechaza: se puede enviar una notificación al solicitante informando la decisión.
 
-![image](https://github.com/user-attachments/assets/afde6ac6-aace-4057-b3ad-fdc519ae8ae6)
-
 ![solicitud de creacion de proyectos en asana con form y power automate](https://github.com/user-attachments/assets/87a38303-949d-4fd6-8989-4632a710ac41)
 
 ![Resumen del flujo creacion de proyecto en asana](https://github.com/user-attachments/assets/31c3616d-ffa8-4c08-8024-20ae5554dc9e)
+
+
+![image](https://github.com/user-attachments/assets/afde6ac6-aace-4057-b3ad-fdc519ae8ae6)
+
+![image](https://github.com/user-attachments/assets/36d706e7-1ded-44ab-9399-32e4e6fd66c3)
+
 
 
