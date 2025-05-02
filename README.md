@@ -31,5 +31,8 @@ Si se rechaza: se puede enviar una notificación al solicitante informando la de
 
 ![image](https://github.com/user-attachments/assets/36d706e7-1ded-44ab-9399-32e4e6fd66c3)
 
+![image](https://github.com/user-attachments/assets/64d89958-c532-4f02-93cb-e9bed7e83610)
+
+
 
 
